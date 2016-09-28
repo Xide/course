@@ -22,8 +22,8 @@ sudo ln -s /path/to/course.py /usr/bin/course
 will create your executable.
 
 
-## Usage:
-![](https://asciinema.org/a/5hbp7yaxnzsp98erzvek9mj6d)
+## Usage:[![asciicast](https://asciinema.org/a/5hbp7yaxnzsp98erzvek9mj6d.png)](https://asciinema.org/a/5hbp7yaxnzsp98erzvek9mj6d)
+
 
 [Click here for original on asciinema](https://asciinema.org/a/5hbp7yaxnzsp98erzvek9mj6d)
 
