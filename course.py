@@ -170,6 +170,9 @@ Author
 
 ## Definitions
 
+Label       | Definition
+------------|---------------
+
 """ % course_title)
 
     print('Creating subfolders')
